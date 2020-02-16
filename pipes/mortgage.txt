@@ -1,0 +1,9 @@
+ITEM	DUE DATE	AMOUNT
+Rent/mortgage	[Date]	$800.00
+Electric	[Date]	$120.00
+Gas	[Date]	$50.00
+Cell phone	[Date]	50.00
+Groceries	[Date]	50.00
+Car payment	[Date]	273.00
+Auto expenses	[Date]	120.00
+Student loans	[Date]	50.00
